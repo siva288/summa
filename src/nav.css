@@ -1,0 +1,18 @@
+.nav
+{
+    background-color: rgb(70, 63, 63);
+    width: 100%;
+    color:white
+}
+.list
+{
+ margin: 20px;
+ text-decoration: none;
+ color: white; 
+}
+h2
+{
+    margin: 10px;
+}
+
+

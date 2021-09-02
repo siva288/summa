@@ -1,0 +1,21 @@
+.btn1
+{
+  width: 20%;
+color: white ;
+background-color: rgb(70, 63, 63);
+border-radius: 8px;  
+margin-right: 10px;
+border: 1px solid;
+}
+.btn2
+{
+  width: 20%;
+color: white ;
+background-color: rgb(236, 38, 38);
+border-radius: 8px;  
+margin-right: 10px;
+border: 1px solid;
+}
+
+
+
